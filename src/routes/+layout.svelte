@@ -13,7 +13,7 @@
 		<svelte:fragment slot="pageHeader">
 			<AppBar>
 				<svelte:fragment slot="lead">
-					<GradientHeading tag="h1" class="text-3xl font-bold" direction="bg-gradient-to-r" from="from-primary-500" to="to-accent-500">Hoshana Events</GradientHeading>
+					<GradientHeading tag="h1" class="text-3xl font-bold" direction="bg-gradient-to-r" from="from-primary-500" to="to-accent-500">Hosanna Events</GradientHeading>
 				</svelte:fragment>
 
 				<svelte:fragment slot="trail">
